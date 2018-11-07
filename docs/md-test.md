@@ -25,7 +25,7 @@ Block code can be used to explain longer portions of code, and takes up more spa
 ##### Secret Technique
 You can style block codes too. by adding a special tag. This is a secret so it is not explained here, but you can inspect the document to learn more...
 
-```
+```css
 <html>
 	<body>
 		<h1 class="secret" style="color:orange">
